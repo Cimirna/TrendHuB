@@ -1,2 +1,2 @@
 # TrendHuB
-webpage description
+ecommerce Website description
